@@ -1,0 +1,52 @@
+.App {
+  background-color: #0d262d;
+  width: 100vmax;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding-top: 100px;
+  padding-bottom: 500px;
+}
+.estado {
+  display: flex;
+  flex-direction: row;
+  margin-left: 800px;
+  margin-right: 100px;
+}
+.id {
+  color: aliceblue;
+  font-size: 33px;
+  font-family: "Oswald", sans-serif;
+  width: 60px;
+}
+.name {
+  color: white;
+  font-size: 33px;
+  font-family: "Oswald", sans-serif;
+}
+.divider {
+  color: aliceblue;
+  width: 500px;
+  background-color: aliceblue;
+  height: 1px;
+  margin-left: 800px;
+  margin-top: 33px;
+}
+.opt {
+  display: flex;
+  flex-direction: row;
+  width: 400px;
+  margin-top: 20px;
+}
+.sigla {
+  color: aliceblue;
+  font-family: "Oswald", sans-serif;
+  font-size: 33px;
+  margin-right: 100px;
+  margin-top: 20px;
+}
+.Titulo {
+  margin-left: 950px;
+  margin-bottom: 100px;
+  font-family: "Oswald", sans-serif;
+}
