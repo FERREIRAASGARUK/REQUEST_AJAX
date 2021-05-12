@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Build
   yarn && yarn start 
-  
+# Observações:
+  Para que o front funcione primeiro é preciso inicializar o back( Listar-estados-back
 ## Available Scripts
 
 In the project directory, you can run:
